@@ -26,9 +26,9 @@
   <a href="https://www.youtube.com/channel/UC6ATR2JWLfIlMMWD5rUQvEA" target="_blank" rel="noopener" title="Subscribe to my Youtube Channel">
     <Youtube />
   </a>
-  <!-- <a href="/rss.xml" target="_blank" rel="noopener" title="Subscribe to my RSS Feed">
+  <a href="/rss.xml" target="_blank" rel="noopener" title="Subscribe to my RSS Feed">
     <Rss />
-  </a> -->
+  </a>
 </div>
 
 <style lang="scss">
