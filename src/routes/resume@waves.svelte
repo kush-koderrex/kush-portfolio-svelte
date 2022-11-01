@@ -11,7 +11,7 @@
 </svelte:head>
 
 <div class="resume-wrapper">
-	<a class="download-link button secondary-light" href="https://github.com/kush-koderrex/koderrex.io/raw/main/kushresume.pdf">
+	<a class="download-link button secondary-light" href="https://github.com/kush-koderrex/kush-portfolio-svelte/raw/main/static/kushresume.pdf">
     <DownloadIcon />
     Download as PDF
   </a>
