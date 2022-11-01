@@ -2,7 +2,7 @@
 // So they can be added as suffixes on different pages
 // Via <svelte:head>
 // TODO:add url
-export const siteBaseUrl = 'https://koderrex.com';
+export const siteBaseUrl = 'https://koderrex-kush.herokuapp.com';
 
 export const keywords = ['Kush Kumar', 'Kush Kumar', 'Web Development', 'Software Engineer', 'Open Source'];
 
