@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/kush-kumar-139084183/" target="_blank" rel="noopener" title="Connect on LinkedIn">
     <LinkedInIcon />
   </a>
-  <a href="mailto:kushkumar89792666@gmail.com" target="_blank" rel="noopener" title="Send an email to matt@fantinel.dev">
+  <a href="mailto:kushkumar89792666@gmail.com" target="_blank" rel="noopener" title="Send an email to kushkumar89792666@gmail.com">
     <EmailIcon />
   </a>
   <a href="https://www.youtube.com/channel/UC6ATR2JWLfIlMMWD5rUQvEA" target="_blank" rel="noopener" title="Subscribe to my Youtube Channel">
